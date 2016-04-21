@@ -21,4 +21,5 @@ public class MainActivity extends AppCompatActivity {
 
         Toast.makeText(getApplicationContext(), "£" + (dollarAmount * pound), Toast.LENGTH_LONG).show();
     }
+
 }
